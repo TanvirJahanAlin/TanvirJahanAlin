@@ -1,9 +1,7 @@
-
-
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=500&size=40&pause=1000&color=f68e5f&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanvir+Jahan+Alin;A+passionate+SQA+Engineer"><h3>
 
 <h3 align="center">A passionate SQA Engineer from Dhaka, Bangladesh</h3>  
-  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanvirJahanAlin&label=Profile%20views&color=orange&style=flat" alt="tanvirjahanalin" /> </p>  
 
 <!-- Image floats on the right of the 5 points -->
@@ -12,6 +10,10 @@
        src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg"
        alt="SQA illustration">
 </p>
+
+Skilled in manual testing, automation testing with Selenium and WebdriverIO, and API testing using
+Postman. Proficient in HTML, CSS, and JavaScript, with a strong focus on ensuring software quality
+through effective testing strategies.
 
 - 🌱 I’m currently practicing **Manual & Automation Testing**  
 - 👨‍💻 All of my projects are available at [Github Repository](https://github.com/TanvirJahanAlin?tab=repositories)  
