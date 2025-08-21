@@ -6,7 +6,7 @@
 
 <!-- Image floats on the right of the 5 points -->
 <p>
-  <img align="right" width="450"
+  <img align="right" width="380"
        src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU3ODM5MjIsIm5iZiI6MTc1NTc4MzYyMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIxVDEzNDAyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlNGQ2OTAwZjMyYmM5Y2U1MjUxZjM4ZGNiOWNkMjllYTg2YWI2OWZiN2YyMDM4MWNmNDBkNWIwNGExMDc1MDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9mMwdytIk3s6kw7-eGlcWM5DOainxidFOgFXVco0xM8"
        alt="SQA illustration">
 </p>
